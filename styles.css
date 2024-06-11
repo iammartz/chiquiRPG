@@ -1,3 +1,15 @@
-.main-color{
+body {
+    display: grid;
+    place-items: center;
+}
+
+.main-color {
     background-color: greenyellow;
+}
+
+#container {
+    background-color: white;
+    width: 450px;
+    height: 800px;
+
 }
