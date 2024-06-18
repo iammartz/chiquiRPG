@@ -1,6 +1,8 @@
-body {
+body,html {
     display: grid;
     place-items: center;
+    height: 100%;
+    width: 100%;
 }
 
 .main-color {
@@ -9,7 +11,9 @@ body {
 
 #container {
     background-color: white;
-    width: 450px;
-    height: 800px;
-
+    width: 650px;
+    height: 550px;
+    border-radius: 40px;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+      
 }
