@@ -1,0 +1,1 @@
+//aqui empieza JS. Socorro. Tonto el que lo lea. Que son 20 y pico orcos tocando música a la vez? Una OR(C)questa.
